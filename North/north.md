@@ -5,4 +5,4 @@ You are unsure as to what you should do in this situation
 
 [Wake the bear up](../WakeBear/WakeBear.md)   
 [Walk around it and go east]()   
-[Go west]()
+[Go west](../South/south.md)
