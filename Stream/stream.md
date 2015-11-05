@@ -6,3 +6,7 @@ as you keep going east
 But as you look towards the south, you see railroads up ahead   
 
 Where will you go now?
+
+[Follow the railroad]()
+
+[Follow the source of the stream]()
