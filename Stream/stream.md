@@ -9,4 +9,4 @@ Where will you go now?
 
 [Follow the railroad](../Stream/railroad.md)
 
-[Follow the source of the stream]()
+[Follow the source of the stream](../Nature/nature.md)
