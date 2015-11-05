@@ -7,6 +7,6 @@ But as you look towards the south, you see railroads up ahead
 
 Where will you go now?
 
-[Follow the railroad](railroad.md)
+[Follow the railroad](../railroad.md)
 
 [Follow the source of the stream]()
