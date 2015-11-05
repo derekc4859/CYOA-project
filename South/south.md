@@ -5,4 +5,4 @@ Where do you go now?
   
 [Go around the cabin](../behindCabin/foliage.md)
   
-[Enter the cabin](../enterCabin/insideCabin.md)
+[Enter the house](../enterHouse/insideCabin.md)
